@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/StoryScenePart2.unity
-    guid: 831b7ec40b6fc2d4282e7fde6549e472
+    path: Assets/Scenes/FlipBook.unity
+    guid: fe5e4531933acd84294437a660cc5ea1
   m_configObjects: {}
